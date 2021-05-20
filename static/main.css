@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+:root {
+  --background-primary: #0B132B, /* Oxford Blue */
+  --background-secondary: #1c2541, /* Space Cadet */
+  --background-tertiary: #3A506B, /* Independence */
+
+  --accent: #6FFFE9, /* Turquoise Blue */
+  --accent-alt: #5BC0BE, /* Maximum Blue Green */
+}
+
+html,
+body {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: left;
+}
+
+body {
+  text-align: center;
+  background: #0B132B;
+  color: #fff;
+}
+
+a {
+	color: #6FFFE9;
+  text-decoration: none;
+  transition: color ease .2s;
+}
+
+a:hover {
+    color: #5BC0BE;
+}

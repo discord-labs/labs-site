@@ -1,2 +1,5 @@
-# labs-site
-Discord Labs' website. Currently wip, but url will be here when done!
+# rem's site
+
+If you're seeing this via the GitHub Pages link, this site moved!
+
+The new url is [remmy.vercel.app](https://remmy.vercel.app)
