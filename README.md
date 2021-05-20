@@ -1,5 +1,3 @@
-# rem's site
+# Discord Labs Site
 
-If you're seeing this via the GitHub Pages link, this site moved!
-
-The new url is [remmy.vercel.app](https://remmy.vercel.app)
+The site's url is https://discord-labs.vercel.app/
