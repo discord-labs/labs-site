@@ -8,8 +8,8 @@
 
     <meta property="og:title" content="Discord Labs - Site" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://dlabs.vercel.app" />
-    <meta property="og:image" content="https://dlabs.vercel.app/assets/siteLogo.png" />
+    <meta property="og:url" content="https://discord-labs.vercel.app" />
+    <meta property="og:image" content="https://discord-labs.vercel.app/assets/siteLogo.png" />
     <meta property="og:description" content="Welcome to the offical site of Discord Labs!" />
     <meta name="theme-color" content="#6FFFE9">
 
